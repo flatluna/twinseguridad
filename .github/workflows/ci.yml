@@ -37,7 +37,7 @@ on:
 # ============================================================
 
 env:
-  AZURE_FUNCTIONAPP_NAME: 'TwinSeguridad'   # <- Cambiar al nombre real de tu Function App en Azure
+  AZURE_FUNCTIONAPP_NAME: 'twinseguridad-fx'
   DOTNET_VERSION: '9.0.x'
 
 jobs:
